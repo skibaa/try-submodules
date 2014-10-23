@@ -1,0 +1,3 @@
+[submodule "web/module1"]
+	path = web/module1
+	url = https://github.com/skibaa/submodule1.git
